@@ -1,9 +1,9 @@
 # Hi there 👋
 
 <h2> :grin: About Me </h2>
-<p> :mortar_board: I am Phoenix Coln, a <b>Student</b> currently pursuing my Associates of Science majoring in Software Engineering with plans to pursue a BS in Computer Science after Graduation.</p>
- <p>:computer: I’m currently working on classes and some personal projects on the side. </p>
- <p>:books: I’m currently learning full-stack web development and a bit of mobile development. I'm also learning some AI/ML with python, with some c++ through my current school.</p>
+<p> :mortar_board: I am Phoenix Coln, a <b>Student</b> at UCCS currently pursuing my Bachelor of Science majoring in Computer Science with an emphasis on Artificial Intelligence and Machine Learning.</p>
+ <p>:computer: I’m currently working on learning mobile development by building a social media app based on the gym.</p>
+ <p>:books: I’m currently learning full-stack web development and a bit of mobile development. I'm also learning some AI/ML with Python, with some C++ through my current school.</p>
  <p>:pencil: I would like to learn more about different modules/frameworks, back-end work like databases and api's, and software production.
  <p>:swimmer: Fun Fact: I am a competitive swimmer.</p>
  <h3 align="left"> :arrow_down: Some Languages and Tools I know:</h3>
