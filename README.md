@@ -3,7 +3,7 @@
 <h2> :grin: About Me </h2>
 <p> :mortar_board: I am Phoenix Coln, a <b>Student</b> at UCCS currently pursuing my Bachelor of Science majoring in Computer Science with an emphasis on Artificial Intelligence and Machine Learning.</p>
  <p>:computer: I’m currently working on a simulated banking management app in C++.</p>
- <p>:books: I’m currently learning AI/ML with Python and C/C++ for optimizing.</p>
+ <p>:books: I’m currently learning AI/ML with Python and C/C++ for system engineering.</p>
  <p>:pencil: I would like to learn more about embedded systems in robotics, and system optimization.</p>
  <p>:swimmer: Fun Fact: I am a competitive swimmer.</p>
  <h3 align="left"> :arrow_down: Some Languages and Tools I know:</h3>
